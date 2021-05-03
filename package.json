@@ -1,0 +1,17 @@
+{
+  "name": "reciva-station-downloader",
+  "version": "1.0.0",
+  "description": "Downloads all reciva.com radio stations to JSON files (for education purposes)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jussi Isotalo <j.isotalo91@gmail.com> (https://github.com/jisotalo)",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "json5": "^2.2.0",
+    "node-html-parser": "^3.2.0"
+  }
+}
