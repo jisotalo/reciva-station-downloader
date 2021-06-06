@@ -1,9 +1,8 @@
 # reciva-station-downloader
 Downloads all reciva.com internet radio stations to JSON files (for education purposes)
 
-- Do not use this
-- This is only for education purposes
-- Do not use this for education
+**Do you have a reciva radio? See:**
+https://github.com/jisotalo/reciva-radio-patching
 
 Why?
 
