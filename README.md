@@ -1,6 +1,10 @@
 # reciva-station-downloader
 Downloads all reciva.com internet radio stations to JSON files (for education purposes)
 
+## NOTE - Not working anymore
+
+As reciva.com has disappeared, this won't work anymore. See https://github.com/jisotalo/reciva-radio-stations-sqlite for a SQLite database of the stations.
+
 **Do you have a reciva radio? See:**
 
 https://github.com/jisotalo/reciva-radio-patching
